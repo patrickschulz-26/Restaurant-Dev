@@ -1,12 +1,1 @@
-# pschulz
-# pschulz
-# pschulz
-# projects
-# projects
-# Restaurant-Dev
-# Restaurant-Dev
-# Restaurant-Dev
-# Restaurant-Dev
-# Restaurant-Dev
-# Restaurant-Dev
 # Restaurant-Dev
